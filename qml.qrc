@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Soldier.qml</file>
+        <file>Fighter.qml</file>
+        <file>Archer.qml</file>
+        <file>Destination.qml</file>
+    </qresource>
+</RCC>
