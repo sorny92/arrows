@@ -2,5 +2,5 @@ import QtQuick 2.0
  
 Soldier {
     soldierColor: 'red'
-    velocity: 100
+    velocity: 60
 }
